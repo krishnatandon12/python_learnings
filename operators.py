@@ -14,10 +14,8 @@ print(35 / 5)
 # Logical Operators
 # AND, OR, NOT
 
-#a = True
-a = False
+a = True
 b = False
-#b = False
 
 if a and b:
     print("All true")
